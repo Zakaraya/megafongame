@@ -1,6 +1,6 @@
 # megafongame
 
-https://megacomics.geecko.ru/game
+[Ссылка на игру](https://megacomics.geecko.ru/game)
 
 Задание 1
 -----------------------------------
